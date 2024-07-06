@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Pack 442 - Pinewood Derby Rules</title>
+<script type="text/javascript" src="js/jquery.js"></script>
+<?php require('inc/kiosk-poller.inc'); ?>
+<?php require('inc/stylesheet.inc'); ?>
+<link rel="stylesheet" type="text/css" href="css/kiosks.css"/>
+<style>
+.full_page_center img {
+max-width: 100%;
+max-height: 80vh;
+}
+</style>
+</head>
+<body>
+
+<p ><i><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>General
+Race Rules</span></i></p>
+
+<p ><b><span style='font-size:11.0pt;font-family:"Arial",sans-serif'>THE
+CAR</span></b></p>
+
+<p ><b><u><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>The
+car must be newly built for the current Cub Scouting year. </span></u></b><span
+style='font-size:10.0pt;font-family:"Arial",sans-serif'>The car should be <b><u>substantially
+built by the Scout</u></b>, though parental supervision in the construction of
+the car is encouraged. The car raced with at the local unit level must be the
+car raced in the district race.</span></p>
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>The
+body of the car must be made from the block of wood provided by the Pack, which
+is in the form of an official B.S.A. Pinewood Derby Kit. <b><i>*Note: Only
+B.S.A. officially licensed kits will be allowed, no unofficial Pine Car kits,
+axels or wheels allowed (look for the foil BSA seal on the item).</i></b></span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:9.0pt;
+font-family:"Arial",sans-serif'>&#61623; </span><b><span style='font-size:10.0pt;
+font-family:"Arial",sans-serif'>The wheels must be placed in the slots provided</span></b><span
+style='font-size:10.0pt;font-family:"Arial",sans-serif'>. If a wheel is broken
+and a new slot is needed, the slot <span class=SpellE>can not</span> exceed 1/4"
+of an inch from the original position (the original slots are cut at 4 1/4").</span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:9.0pt;
+font-family:"Arial",sans-serif'>&#61623; </span><b><u><span style='font-size:
+10.0pt;font-family:"Arial",sans-serif'>Wheels may not be altered in any way</span></u></b><span
+style='font-size:10.0pt;font-family:"Arial",sans-serif'>, except that mold
+projection defects on wheel treads may be removed by sanding lightly. <b>The
+wheels may not be sanded or trimmed </b>to enhance performance. The decorative
+dots (the edge tread) on the wheel treads may not be removed. <b>If wheel
+sanding or trimming is detected, the car will be disqualified. </b>The official
+wheel width is 0.34".</span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:9.0pt;
+font-family:"Arial",sans-serif'>&#61623; </span><span style='font-size:10.0pt;
+font-family:"Arial",sans-serif'>Wheels may not be designed to ride upon the
+guide strip of the <span class=GramE>track</span></span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:9.0pt;
+font-family:"Arial",sans-serif'>&#61623; </span><span style='font-size:10.0pt;
+font-family:"Arial",sans-serif'>The axles of the car must be from the official
+B.S.A. Pinewood Derby Kit, as supplied by the Pack, or an official Pinewood
+Derby wheel replacement kit. The wheels must be attached to the car with the
+pins provided in the kit. No cars will be accepted where bearings, washers, or
+spacers are used as part of the wheel assembly. The location of the axles cannot be altered or moved.</span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:10.0pt;
+font-family:"Arial",sans-serif'>&#61623; <b><u>You may not paint the bottom of
+the car or otherwise cover the car's underside</u></b>. If you need to put a
+sealant coat on the bottom of the car, it must be clear. <b>Any alterations on
+the bottom of the car must be apparent upon visual inspection, and axle point
+must be visible.</b></span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:10.0pt'>&#61623;
+</span><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Loose
+pieces that fall off during the race are not permitted.</span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:10.0pt;
+font-family:"Arial",sans-serif'>&#61623; If the front of the car is designed to
+gain an unfair advantage at the start or interferes with a fair start, the car
+will be disqualified. No notching of front bumper allowed.The 'Front' and 'Back' of the car are
+determined by the way the Scout designs the car.<a name="_Hlk117435634">However, the location
+of the axles cannot be altered or moved.</a></span><span style='mso-bookmark:
+_Hlk117435634'></span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:10.0pt;
+font-family:"Arial",sans-serif'>&#61623; The total weight of the car may not
+exceed 5 ounces. The maximum width of the car, including wheels, may not exceed
+2.75 inches. The maximum length of the car may not exceed 7 inches. The motion
+of the car may not be mechanically aided (motor, springs, C02 cartridges,
+rubber bands, <span class=SpellE>etc</span>, are prohibited).</span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:10.0pt;
+font-family:"Arial",sans-serif'>&#61623; All metallic attached objects that
+contain <b>lead </b>must be covered with <b>clear </b>paint or fingernail
+polish.</span></p>
+
+<p  style='margin-bottom:3.55pt'><span style='font-size:10.0pt;
+font-family:"Arial",sans-serif'>&#61623;
+Lubrication--only graphite powder or the new B.S.A. graphite lube T102/<span
+class=SpellE>polytetra</span> <span class=SpellE>fluoroethlene</span> may be
+used to lubricate the wheels. (Warning--other lubricants may damage the plastic
+wheels and keep them from turning freely.) <b>No lubricants will be provided. </b>All
+lubrication must be done over a trash can or outside before the car is
+impounded. <b>Once the car is impounded, it may not be re-lubricated </b>except
+when the wheel is damaged or becomes dislodged during a race.</span></p>
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Additional
+specifics of the track can be provided upon request. Most tracks have as
+standard 3-1/2&quot; wide lane width with 1/4&quot; high center guide rails,
+and we will not use a non-standard track for the district races. It's
+recommended that you allow at least 3/8 inch of clearance on the underside of
+the car to allow it to be able to pass down the track without dragging. The
+finish of the track will use a computerized mechanism, a scanner that the cars
+pass through at the end of the track, which registers race finish data, and we
+will use race software calculate standings for each racer. <o:p></o:p></span></p>
+
+<p ><b><span style='font-size:11.0pt;font-family:"Arial",sans-serif'>RACE
+PROCEDURE</span></b></p>
+
+<p ><b><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Cars
+will be raced by the Cub Scouts. </span></b><span style='font-size:10.0pt;
+font-family:"Arial",sans-serif'>The pit area will be restricted to the race
+participants alone, and pit access passes will be issued to each Cub Scout at
+registration and impounding of the Cub Scout's race car.</span></p>
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>After
+the Scout has registered, his car will be weighed, measured, and inspected by
+the pack Pinewood Derby Pit Officials. This process will be conducted <span
+class=GramE>in order to</span> ensure compliance with the racing rules.</span></p>
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>A
+digital scale will be used to weigh cars. The balance must be able to resolve
+at least .1 ounce. Cars will not be accepted if their weight exceeds five (5)
+ounces by even the smallest resolution of the scale.</span></p>
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>A
+Cub Scout whose car fails any part of the inspection will be given the
+opportunity to <span class=GramE>make adjustments to</span> the car. Cars will
+be reweighed, measured, and inspected until they comply or until the scheduled
+race starting time. Any car unable to pass inspection before the start of the
+race will be disqualified. <b>No exceptions.</b></span></p>
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>After
+the car has passed inspection, it will be taken by an Osage District Pinewood
+Derby Pit Official to the Pit Table to be impounded while the Cub Scout awaits
+the start of the racing.</span></p>
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>When
+called to race, the Scout will have three (3) minutes to report before being
+disqualified. When called, the Scout will proceed to the pit area to cross the
+security checkpoint and secure his car. The Scouts will then take the cars to
+the Race Starter for positioning on the track. Scouts will be given time to
+position themselves at the end of the track before the race begins.</span></p>
+
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Upon
+completion of a heat, cars must be returned to the pit area impounding table.
+In the event of a breakdown of a car during the race, the participant will be
+given five (5) minutes to repair the car. Only the damaged portion of the car
+may be modified, and each scout is allowed only one repair. The Scout must do
+work with assistance from his parent or guardian.</span></p>
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Pinewood
+Derby Pit Officials will re-inspect any car that is serviced during the race.
+The Race Officials may choose to continue with other race heats to avoid long
+delays in the race schedule. The damaged car must be raced before the race
+proceeds to the next level of elimination.</span></p>
+
+<p ><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>In the event
+a scout's car jumps the track and hits another scouts car, the heat will be 
+reran. However if a scout's car jumps the track and doesn't complete but doesn't
+impact any other car the heat will not be reran.  That lane will be marked as 10 
+seconds, race is configured to drop slowest heat.</span></p>
+
+<p ><i><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>The
+    Osage District Race is set for March 16th, <span class=GramE>2024</span></span></i></p>
+
+</div>
+
+
+<?php require_once('inc/ajax-failure.inc'); ?>
+
+</body>
+</html>
