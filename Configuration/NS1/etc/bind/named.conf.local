@@ -1,0 +1,36 @@
+//
+// Do any local configuration here
+//
+
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+//include "/etc/bind/zones.rfc1918";
+zone "coughlinfam.com" {
+    type master;
+    file "/etc/bind/zones/db.coughlinfam.com"; # zone file path
+};
+zone "168.192.in-addr.arpa" {
+    type primary;
+    file "/etc/bind/zones/db.192.168";  # reverse lookup zone
+};
+
+logging {
+
+     channel default_log {
+          file "/var/log/named/default" versions 3 size 20m;
+          print-time yes;
+          print-category yes;
+          print-severity yes;
+          severity info;
+     };
+
+     channel query-errors_log {
+          file "/var/log/named/query-errors" versions 5 size 20m;
+          print-time yes;
+          print-category yes;
+          print-severity yes;
+          severity dynamic;
+     };
+category default { default_log ; };
+category default { query-errors_log ; };
+};
